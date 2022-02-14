@@ -1,0 +1,11 @@
+imdb_full.db
+imdb.db
+data/
+downloads/
+data.zip
+sample_data.zip
+sample_data/
+solutions.py
+solutions.sql
+Pipfile
+solutions/
